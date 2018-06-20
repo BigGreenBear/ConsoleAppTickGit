@@ -6,7 +6,7 @@ namespace ConsoleAppTickGit
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World! You");
+            Console.WriteLine("Hello World!");
         }
     }
 }
